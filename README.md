@@ -40,7 +40,6 @@ DyssomniaNN/
 ├── environment/              # 24h solar photoperiod and circadian zeitgeber clock
 ├── evaluation/               # Spectral decomposition (Welch PSD) and Well-Rested Index metrics
 ├── models/                   # Biophysical modules (Process S/C, Flip-Flop switch, Corticothalamic SNN)
-├── outputs/                  # Sample generated simulation results
 └── visualization/            # PyTorch TensorBoard logger and live dashboard
 ```
 
